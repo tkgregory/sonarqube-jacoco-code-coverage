@@ -23,3 +23,8 @@ Wait for SonarQube to start, then run:
 ## Stopping
 
 `./gradlew dockerComposeDown`
+
+## SonarQube 7 vs. 8
+
+This example runs against the *lts* version of SonarQube (currently SonarQube 7).
+An example using SonarQube 8 can be found on the [sonarqube-8](https://github.com/tkgregory/sonarqube-jacoco-code-coverage/tree/sonarqube-8) branch.
