@@ -24,4 +24,10 @@ sonarqube {
     }
 }
 
+jacocoTestReport {
+    reports {
+        xml.enabled true
+    }
+}
+
 tasks['sonarqube'].dependsOn test
