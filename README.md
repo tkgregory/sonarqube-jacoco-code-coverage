@@ -10,7 +10,7 @@ Repository to go along with the *How To Test Code Coverage Using SonarQube and J
 
 #### Running SonarQube
 
-`./gradlew dockerComposeUp`
+`./gradlew composeUp`
 
 This will run SonarQube at [locahost:9000](http://localhost:9000).
 
@@ -22,7 +22,7 @@ Wait for SonarQube to start, then run:
 
 ## Stopping
 
-`./gradlew dockerComposeDown`
+`./gradlew composeDown`
 
 ## SonarQube 7 vs. 8
 
