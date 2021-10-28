@@ -20,9 +20,10 @@ public class MathServiceTest {
 
         assertThat(result, equalTo(8));
     }
+     @Test
     public void substractNumbers() {
-        int result = mathService.subtract(5, 3);
+        int result2 = mathService.subtract(5, 3);
 
-        assertThat(result, equalTo(2));
+        assertThat(result2, equalTo(2));
     }
 }
