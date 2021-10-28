@@ -23,6 +23,6 @@ public class MathServiceTest {
     public void substractNumbers() {
         int result = mathService.subtract(5, 3);
 
-        assertThat(result, equalTo(1));
+        assertThat(result, equalTo(2));
     }
 }
