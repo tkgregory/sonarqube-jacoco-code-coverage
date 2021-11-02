@@ -1,6 +1,8 @@
 Repository to go along with the *How To Test Code Coverage Using SonarQube and Jacoco* 
 [YouTube video](https://youtu.be/6BTOd0X8UCs) and article at [tomgregory.com](https://tomgregory.com/how-to-measure-code-coverage-using-sonarqube-and-jacoco/).
 
+[![CI](https://github.com/tkgregory/sonarqube-jacoco-code-coverage/actions/workflows/gradle.yml/badge.svg)](https://github.com/tkgregory/sonarqube-jacoco-code-coverage/actions/workflows/gradle.yml)
+
 ## Pre-requisites
 
 * JDK 8+
