@@ -21,7 +21,7 @@ The default login is *admin/admin*, then you will need to set a new password.
 
 Wait for SonarQube to start, then run:
 
-`./gradlew sonarqube -PsonarPassword=<admin-password>`
+`./gradlew sonarqube`
 
 ## Stopping
 
