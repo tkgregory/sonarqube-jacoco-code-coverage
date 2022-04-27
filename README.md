@@ -30,3 +30,6 @@ Wait for SonarQube to start, then run:
 ## SonarQube version
 
 This example runs against the *lts* version of SonarQube (currently SonarQube 8.9).
+
+## Need further support?
+Contact me if you need help at tom@tomgregory.com.
